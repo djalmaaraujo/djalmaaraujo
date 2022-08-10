@@ -9,3 +9,4 @@ Senior Software Engineer at @Automattic - Currently working around these things:
 * React Native
 * Ruby
 * Ruby on Rails
+* A11Y — Accessibility
