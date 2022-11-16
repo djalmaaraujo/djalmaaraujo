@@ -2,11 +2,11 @@
 
 Senior Software Engineer at @Automattic - Currently working around these things:
 
+* A11Y — Accessibility
 * Javascript
-* Node.js
 * React
 * GraphQL
+* Node.js
 * React Native
 * Ruby
 * Ruby on Rails
-* A11Y — Accessibility
