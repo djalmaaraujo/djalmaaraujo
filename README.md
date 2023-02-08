@@ -7,6 +7,7 @@ Senior Software Engineer at @Automattic - Currently working around these things:
 * React
 * GraphQL
 * Node.js
+* Next.js
 * React Native
 * Ruby
 * Ruby on Rails
