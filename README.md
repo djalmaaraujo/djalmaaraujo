@@ -2,9 +2,9 @@ Currently working around these things:
 
 * A11Y — Accessibility
 * Javascript
+* TypeScript
 * Vuejs
 * React
-* GraphQL
 * Node.js
 * Next.js
 * React Native
