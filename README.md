@@ -13,4 +13,4 @@ Currently working around these things:
 * Python
 * Django
 * AI Applied Things
-* Performing AI workshops (Automomous agents, MCP, Context management, Personal Agents)
+* Conducting AI workshops (Autonomous agents, MCP, Context management, Personal agents)
