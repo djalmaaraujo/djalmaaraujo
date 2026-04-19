@@ -12,3 +12,5 @@ Currently working around these things:
 * Ruby on Rails
 * Python
 * Django
+* AI Applied Things
+* Performing AI workshops (Automomous agents, MCP, Context management, Personal Agents)
