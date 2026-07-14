@@ -25,7 +25,7 @@ This is what I currently work or experiment on a regular basis:
 
 ## Projects I'm building
 * **[Brito](https://share.djalma.blog/brito/)** — autonomous AI agents
-* **[Claude Usage macOs]([https://github.com/djalmaaraujo/fits-board](https://github.com/djalmaaraujo/claude-usage-menubar))** — A small, simple and efficient way to check your Claude plan usage for macOS.
+* **[Claude Usage macOs](https://github.com/djalmaaraujo/claude-usage-menubar)** — A small, simple and efficient way to check your Claude plan usage for macOS.
 * **[ai-wotd](https://github.com/djalmaaraujo/ai-wotd)** — daily "AI term of the day" hub, built entirely on GitHub
 * **[piper](https://github.com/djalmaaraujo/piper)** — stream any command's output live over HTTP (Go + Tailscale)
 
